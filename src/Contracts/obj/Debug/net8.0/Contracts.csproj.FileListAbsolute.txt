@@ -1,0 +1,11 @@
+C:\Sample Projects\CommercialEdgeLogs\src\Contracts\bin\Debug\net8.0\Contracts.deps.json
+C:\Sample Projects\CommercialEdgeLogs\src\Contracts\bin\Debug\net8.0\Contracts.dll
+C:\Sample Projects\CommercialEdgeLogs\src\Contracts\bin\Debug\net8.0\Contracts.pdb
+C:\Sample Projects\CommercialEdgeLogs\src\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sample Projects\CommercialEdgeLogs\src\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+C:\Sample Projects\CommercialEdgeLogs\src\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+C:\Sample Projects\CommercialEdgeLogs\src\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Sample Projects\CommercialEdgeLogs\src\Contracts\obj\Debug\net8.0\Contracts.dll
+C:\Sample Projects\CommercialEdgeLogs\src\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+C:\Sample Projects\CommercialEdgeLogs\src\Contracts\obj\Debug\net8.0\Contracts.pdb
+C:\Sample Projects\CommercialEdgeLogs\src\Contracts\obj\Debug\net8.0\ref\Contracts.dll
